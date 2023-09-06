@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FindEmployeeGrossPay/1.0.0": {
+        "runtime": {
+          "FindEmployeeGrossPay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindEmployeeGrossPay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

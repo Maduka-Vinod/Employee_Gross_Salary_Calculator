@@ -1,0 +1,16 @@
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\bin\Debug\net7.0-windows\FindEmployeeGrossPay.exe
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\bin\Debug\net7.0-windows\FindEmployeeGrossPay.deps.json
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\bin\Debug\net7.0-windows\FindEmployeeGrossPay.runtimeconfig.json
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\bin\Debug\net7.0-windows\FindEmployeeGrossPay.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\bin\Debug\net7.0-windows\FindEmployeeGrossPay.pdb
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.Form1.resources
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.csproj.GenerateResource.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.AssemblyInfoInputs.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.AssemblyInfo.cs
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.csproj.CoreCompileInputs.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\refint\FindEmployeeGrossPay.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.pdb
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\FindEmployeeGrossPay.genruntimeconfig.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\FindEmployeeGrossPay\FindEmployeeGrossPay\obj\Debug\net7.0-windows\ref\FindEmployeeGrossPay.dll
